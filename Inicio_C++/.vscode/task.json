@@ -1,0 +1,22 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+      {
+        "label": "build app",
+        "type": "shell",
+        "command": "clang++",
+        "args": [
+          "-Wall", "-Wextra", "-g3", "-O0",
+          "Practica_3_2025/main.cpp",
+          "Practica_3_2025/RobotControl.cpp",
+          "-o",
+          "build/Debug/outDebug"
+        ],
+        "group": {
+          "kind": "build",
+          "isDefault": true
+        }
+      }
+    ]
+  }
+  

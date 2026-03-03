@@ -1,0 +1,70 @@
+[MQTT] Conectando a tcp://broker.emqx.io:1883 con client_id=cpp_sub_930260719...
+[MQTT] Conectado. Cause: connect onSuccess called
+[MQTT] Subscribing: sensor/data/sen55 (qos=0)...
+[MQTT] OK subscribed: sensor/data/sen55
+[MQTT] Subscribing: sensor/data/gas_sensor (qos=0)...
+[MQTT] OK subscribed: sensor/data/gas_sensor
+[MQTT] Escuchando... (Ctrl+C para salir)
+
+[MSG] Topic: sensor/data/sen55
+      Payload: {"MassConcentrationPm1p0":0.80,"MassConcentrationPm2p5":0.90,"MassConcentrationPm4p0":1.10,"MassConcentrationPm10p0":1.10,"AmbientHumidity":38.96,"AmbientTemperature":20.94,"VocIndex":63.00,"NoxIndex":1.00}
+
+[MSG] Topic: sensor/data/gas_sensor
+      Payload: {"GM102B":41.00,"GM302B":37.00,"GM502B":39.00,"GM702B":123.00}
+
+[MSG] Topic: sensor/data/sen55
+      Payload: {"MassConcentrationPm1p0":0.80,"MassConcentrationPm2p5":1.00,"MassConcentrationPm4p0":1.10,"MassConcentrationPm10p0":1.10,"AmbientHumidity":38.96,"AmbientTemperature":20.94,"VocIndex":64.00,"NoxIndex":1.00}
+
+[MSG] Topic: sensor/data/gas_sensor
+      Payload: {"GM102B":40.00,"GM302B":37.00,"GM502B":39.00,"GM702B":124.00}
+
+[MSG] Topic: sensor/data/sen55
+      Payload: {"MassConcentrationPm1p0":0.80,"MassConcentrationPm2p5":1.00,"MassConcentrationPm4p0":1.10,"MassConcentrationPm10p0":1.20,"AmbientHumidity":38.96,"AmbientTemperature":20.93,"VocIndex":64.00,"NoxIndex":1.00}
+
+[MSG] Topic: sensor/data/gas_sensor
+      Payload: {"GM102B":41.00,"GM302B":37.00,"GM502B":39.00,"GM702B":124.00}
+
+[MSG] Topic: sensor/data/sen55
+      Payload: {"MassConcentrationPm1p0":0.80,"MassConcentrationPm2p5":1.00,"MassConcentrationPm4p0":1.10,"MassConcentrationPm10p0":1.10,"AmbientHumidity":38.98,"AmbientTemperature":20.93,"VocIndex":64.00,"NoxIndex":1.00}
+
+[MSG] Topic: sensor/data/gas_sensor
+      Payload: {"GM102B":41.00,"GM302B":37.00,"GM502B":38.00,"GM702B":124.00}
+
+[MSG] Topic: sensor/data/sen55
+      Payload: {"MassConcentrationPm1p0":0.70,"MassConcentrationPm2p5":0.90,"MassConcentrationPm4p0":1.00,"MassConcentrationPm10p0":1.00,"AmbientHumidity":39.02,"AmbientTemperature":20.93,"VocIndex":63.00,"NoxIndex":1.00}
+
+[MSG] Topic: sensor/data/gas_sensor
+      Payload: {"GM102B":40.00,"GM302B":37.00,"GM502B":39.00,"GM702B":124.00}
+
+[MSG] Topic: sensor/data/sen55
+      Payload: {"MassConcentrationPm1p0":0.70,"MassConcentrationPm2p5":0.80,"MassConcentrationPm4p0":1.00,"MassConcentrationPm10p0":1.00,"AmbientHumidity":39.02,"AmbientTemperature":20.93,"VocIndex":64.00,"NoxIndex":1.00}
+
+[MSG] Topic: sensor/data/gas_sensor
+      Payload: {"GM102B":40.00,"GM302B":37.00,"GM502B":38.00,"GM702B":123.00}
+
+[MSG] Topic: sensor/data/sen55
+      Payload: {"MassConcentrationPm1p0":0.70,"MassConcentrationPm2p5":0.90,"MassConcentrationPm4p0":1.00,"MassConcentrationPm10p0":1.00,"AmbientHumidity":39.01,"AmbientTemperature":20.93,"VocIndex":64.00,"NoxIndex":1.00}
+
+[MSG] Topic: sensor/data/gas_sensor
+      Payload: {"GM102B":40.00,"GM302B":36.00,"GM502B":38.00,"GM702B":124.00}
+
+[MSG] Topic: sensor/data/sen55
+      Payload: {"MassConcentrationPm1p0":0.70,"MassConcentrationPm2p5":0.80,"MassConcentrationPm4p0":0.90,"MassConcentrationPm10p0":0.90,"AmbientHumidity":39.01,"AmbientTemperature":20.93,"VocIndex":64.00,"NoxIndex":1.00}
+
+[MSG] Topic: sensor/data/gas_sensor
+      Payload: {"GM102B":40.00,"GM302B":37.00,"GM502B":38.00,"GM702B":124.00}
+
+[MSG] Topic: sensor/data/sen55
+      Payload: {"MassConcentrationPm1p0":0.70,"MassConcentrationPm2p5":0.80,"MassConcentrationPm4p0":0.90,"MassConcentrationPm10p0":0.90,"AmbientHumidity":38.99,"AmbientTemperature":20.93,"VocIndex":64.00,"NoxIndex":1.00}
+
+[MSG] Topic: sensor/data/gas_sensor
+      Payload: {"GM102B":40.00,"GM302B":37.00,"GM502B":38.00,"GM702B":124.00}
+
+[MSG] Topic: sensor/data/sen55
+      Payload: {"MassConcentrationPm1p0":0.60,"MassConcentrationPm2p5":0.80,"MassConcentrationPm4p0":0.90,"MassConcentrationPm10p0":0.90,"AmbientHumidity":38.96,"AmbientTemperature":20.92,"VocIndex":63.00,"NoxIndex":1.00}
+
+[MSG] Topic: sensor/data/gas_sensor
+      Payload: {"GM102B":40.00,"GM302B":37.00,"GM502B":38.00,"GM702B":123.00}
+
+[MSG] Topic: sensor/data/sen55
+      Payload:
