@@ -1,0 +1,208 @@
+Resultados de pinza:
+datos:
+ID:5118 Galga:0.24 Fuerza izquierda:1.796 Fuerza derecha:1.752
+ID:6574 Galga:0.22 Fuerza izquierda:1.595 Fuerza derecha:1.676
+ID:18852 Galga:0.229 Fuerza izquierda:1.574 Fuerza derecha:1.617
+ID:1202 Galga:0.251 Fuerza izquierda:1.841 Fuerza derecha:1.835
+ID:13342 Galga:0.247 Fuerza izquierda:1.806 Fuerza derecha:1.79
+ID:14167 Galga:0.262 Fuerza izquierda:1.921 Fuerza derecha:1.973
+ID:6178 Galga:0.234 Fuerza izquierda:1.68 Fuerza derecha:1.72
+ID:10733 Galga:0.263 Fuerza izquierda:1.968 Fuerza derecha:1.883
+ID:8593 Galga:0.224 Fuerza izquierda:1.629 Fuerza derecha:1.719
+ID:19963 Galga:0.232 Fuerza izquierda:1.722 Fuerza derecha:1.673
+ID:10490 Galga:0.239 Fuerza izquierda:1.868 Fuerza derecha:1.833
+ID:10041 Galga:0.241 Fuerza izquierda:1.683 Fuerza derecha:1.749
+ID:8863 Galga:0.216 Fuerza izquierda:1.509 Fuerza derecha:1.517
+ID:1099 Galga:0.238 Fuerza izquierda:1.792 Fuerza derecha:1.905
+ID:15736 Galga:0.227 Fuerza izquierda:1.558 Fuerza derecha:1.569
+ID:19230 Galga:0.23 Fuerza izquierda:1.607 Fuerza derecha:1.667
+ID:19696 Galga:0.206 Fuerza izquierda:1.528 Fuerza derecha:1.531
+ID:6658 Galga:0.23 Fuerza izquierda:1.576 Fuerza derecha:1.788
+ID:12773 Galga:0.21 Fuerza izquierda:1.522 Fuerza derecha:1.465
+ID:3575 Galga:0.244 Fuerza izquierda:1.817 Fuerza derecha:1.86
+ID:4932 Galga:0.239 Fuerza izquierda:1.779 Fuerza derecha:1.838
+ID:12213 Galga:0.234 Fuerza izquierda:1.602 Fuerza derecha:1.651
+ID:15955 Galga:0.197 Fuerza izquierda:1.447 Fuerza derecha:1.523
+ID:12533 Galga:0.21 Fuerza izquierda:1.583 Fuerza derecha:1.569
+ID:412 Galga:0.259 Fuerza izquierda:1.988 Fuerza derecha:1.966
+ID:19323 Galga:0.225 Fuerza izquierda:1.593 Fuerza derecha:1.57
+ID:17336 Galga:0.252 Fuerza izquierda:1.829 Fuerza derecha:1.921
+ID:18171 Galga:0.24 Fuerza izquierda:1.905 Fuerza derecha:1.783
+ID:13237 Galga:0.239 Fuerza izquierda:1.765 Fuerza derecha:1.766
+ID:16145 Galga:0.196 Fuerza izquierda:1.381 Fuerza derecha:1.423
+ID:18537 Galga:0.213 Fuerza izquierda:1.538 Fuerza derecha:1.465
+ID:18022 Galga:0.252 Fuerza izquierda:1.917 Fuerza derecha:1.914
+ID:12847 Galga:0.215 Fuerza izquierda:1.524 Fuerza derecha:1.511
+ID:14767 Galga:0.251 Fuerza izquierda:1.869 Fuerza derecha:1.777
+ID:1135 Galga:0.239 Fuerza izquierda:1.763 Fuerza derecha:1.896
+ID:1126 Galga:0.244 Fuerza izquierda:1.805 Fuerza derecha:1.886
+ID:15136 Galga:0.232 Fuerza izquierda:1.629 Fuerza derecha:1.596
+ID:4354 Galga:0.248 Fuerza izquierda:1.798 Fuerza derecha:1.746
+ID:7218 Galga:0.273 Fuerza izquierda:1.949 Fuerza derecha:1.963
+ID:11113 Galga:0.267 Fuerza izquierda:1.986 Fuerza derecha:1.927
+ID:14963 Galga:0.24 Fuerza izquierda:1.719 Fuerza derecha:1.656
+ID:15780 Galga:0.231 Fuerza izquierda:1.57 Fuerza derecha:1.561
+ID:16102 Galga:0.212 Fuerza izquierda:1.477 Fuerza derecha:1.46
+ID:12174 Galga:0.216 Fuerza izquierda:1.604 Fuerza derecha:1.641
+ID:12425 Galga:0.212 Fuerza izquierda:1.495 Fuerza derecha:1.469
+ID:18530 Galga:0.215 Fuerza izquierda:1.651 Fuerza derecha:1.541
+ID:4590 Galga:0.238 Fuerza izquierda:1.733 Fuerza derecha:1.827
+ID:15062 Galga:0.226 Fuerza izquierda:1.719 Fuerza derecha:1.643
+ID:12691 Galga:0.215 Fuerza izquierda:1.524 Fuerza derecha:1.507
+ID:17904 Galga:0.26 Fuerza izquierda:1.919 Fuerza derecha:1.931
+ID:10967 Galga:0.251 Fuerza izquierda:2.031 Fuerza derecha:1.907
+ID:18788 Galga:0.228 Fuerza izquierda:1.565 Fuerza derecha:1.557
+ID:18573 Galga:0.22 Fuerza izquierda:1.648 Fuerza derecha:1.543
+ID:17157 Galga:0.245 Fuerza izquierda:1.754 Fuerza derecha:1.794
+ID:3921 Galga:0.251 Fuerza izquierda:1.849 Fuerza derecha:1.91
+ID:14962 Galga:0.247 Fuerza izquierda:1.717 Fuerza derecha:1.638
+ID:12702 Galga:0.203 Fuerza izquierda:1.489 Fuerza derecha:1.484
+ID:12138 Galga:0.226 Fuerza izquierda:1.626 Fuerza derecha:1.665
+ID:19159 Galga:0.225 Fuerza izquierda:1.54 Fuerza derecha:1.679
+ID:8224 Galga:0.231 Fuerza izquierda:1.709 Fuerza derecha:1.767
+ID:3948 Galga:0.253 Fuerza izquierda:1.918 Fuerza derecha:1.837
+ID:7376 Galga:0.262 Fuerza izquierda:2.027 Fuerza derecha:1.938
+ID:6092 Galga:0.228 Fuerza izquierda:1.705 Fuerza derecha:1.65
+ID:734 Galga:0.23 Fuerza izquierda:1.779 Fuerza derecha:1.904
+ID:11255 Galga:0.251 Fuerza izquierda:1.883 Fuerza derecha:1.814
+ID:19911 Galga:0.234 Fuerza izquierda:1.704 Fuerza derecha:1.609
+ID:15707 Galga:0.242 Fuerza izquierda:1.553 Fuerza derecha:1.672
+ID:9732 Galga:0.241 Fuerza izquierda:1.746 Fuerza derecha:1.627
+ID:14386 Galga:0.264 Fuerza izquierda:1.973 Fuerza derecha:2.032
+ID:4425 Galga:0.24 Fuerza izquierda:1.804 Fuerza derecha:1.711
+ID:8998 Galga:0.214 Fuerza izquierda:1.504 Fuerza derecha:1.47
+ID:3478 Galga:0.239 Fuerza izquierda:1.695 Fuerza derecha:1.712
+ID:10664 Galga:0.249 Fuerza izquierda:1.84 Fuerza derecha:1.878
+ID:12183 Galga:0.221 Fuerza izquierda:1.597 Fuerza derecha:1.67
+ID:18081 Galga:0.246 Fuerza izquierda:1.822 Fuerza derecha:1.846
+ID:9750 Galga:0.22 Fuerza izquierda:1.604 Fuerza derecha:1.699
+ID:13091 Galga:0.247 Fuerza izquierda:1.761 Fuerza derecha:1.766
+ID:9622 Galga:0.232 Fuerza izquierda:1.629 Fuerza derecha:1.648
+ID:1316 Galga:0.256 Fuerza izquierda:1.861 Fuerza derecha:1.826
+ID:8399 Galga:0.231 Fuerza izquierda:1.769 Fuerza derecha:1.793
+ID:11688 Galga:0.232 Fuerza izquierda:1.619 Fuerza derecha:1.684
+ID:17880 Galga:0.267 Fuerza izquierda:1.943 Fuerza derecha:1.956
+ID:682 Galga:0.262 Fuerza izquierda:1.857 Fuerza derecha:1.842
+ID:7865 Galga:0.262 Fuerza izquierda:1.904 Fuerza derecha:1.85
+ID:410 Galga:0.254 Fuerza izquierda:1.964 Fuerza derecha:1.884
+ID:5122 Galga:0.242 Fuerza izquierda:1.719 Fuerza derecha:1.743
+ID:8513 Galga:0.237 Fuerza izquierda:1.712 Fuerza derecha:1.753
+ID:15857 Galga:0.209 Fuerza izquierda:1.533 Fuerza derecha:1.588
+ID:11962 Galga:0.238 Fuerza izquierda:1.719 Fuerza derecha:1.729
+ID:18735 Galga:0.219 Fuerza izquierda:1.568 Fuerza derecha:1.544
+ID:12634 Galga:0.215 Fuerza izquierda:1.466 Fuerza derecha:1.479
+ID:1914 Galga:0.217 Fuerza izquierda:1.633 Fuerza derecha:1.501
+ID:7247 Galga:0.258 Fuerza izquierda:1.948 Fuerza derecha:1.916
+ID:17608 Galga:0.237 Fuerza izquierda:1.848 Fuerza derecha:1.838
+ID:1572 Galga:0.265 Fuerza izquierda:1.865 Fuerza derecha:1.91
+ID:15548 Galga:0.235 Fuerza izquierda:1.627 Fuerza derecha:1.71
+ID:4166 Galga:0.248 Fuerza izquierda:1.817 Fuerza derecha:1.841
+ID:15986 Galga:0.207 Fuerza izquierda:1.45 Fuerza derecha:1.492
+ID:11247 Galga:0.258 Fuerza izquierda:1.863 Fuerza derecha:1.819
+ID:6843 Galga:0.238 Fuerza izquierda:1.666 Fuerza derecha:1.71
+
+Medias:
+Galga = 0.236
+Fuerza izquierda = 1.71876
+Fuerza derecha = 1.72284
+Clasificacion:
+5118  estable
+6574  estable
+18852  estable
+1202  estable
+13342  estable
+14167  estable
+6178  estable
+10733  estable
+8593  estable
+19963  estable
+10490  estable
+10041  estable
+8863  estable
+1099  estable
+15736  estable
+19230  estable
+19696  estable
+6658  inestable
+12773  estable
+3575  estable
+4932  estable
+12213  estable
+15955  estable
+12533  estable
+412  estable
+19323  estable
+17336  estable
+18171  estable
+13237  estable
+16145  estable
+18537  estable
+18022  estable
+12847  estable
+14767  estable
+1135  estable
+1126  estable
+15136  estable
+4354  estable
+7218  estable
+11113  estable
+14963  estable
+15780  estable
+16102  estable
+12174  estable
+12425  estable
+18530  estable
+4590  estable
+15062  estable
+12691  estable
+17904  estable
+10967  estable
+18788  estable
+18573  estable
+17157  estable
+3921  estable
+14962  estable
+12702  estable
+12138  estable
+19159  estable
+8224  estable
+3948  estable
+7376  estable
+6092  estable
+734  estable
+11255  estable
+19911  estable
+15707  estable
+9732  estable
+14386  estable
+4425  estable
+8998  estable
+3478  estable
+10664  estable
+12183  estable
+18081  estable
+9750  estable
+13091  estable
+9622  estable
+1316  estable
+8399  estable
+11688  estable
+17880  estable
+682  estable
+7865  estable
+410  estable
+5122  estable
+8513  estable
+15857  estable
+11962  estable
+18735  estable
+12634  estable
+1914  estable
+7247  estable
+17608  estable
+1572  estable
+15548  estable
+4166  estable
+15986  estable
+11247  estable
+6843  estable
